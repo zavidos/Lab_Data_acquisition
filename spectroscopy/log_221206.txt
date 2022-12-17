@@ -1,0 +1,43 @@
+`image   target     exptime   slit   comments
+
+13	arc		15	3
+14	arc		30	3
+15	arc		59	3	burned
+16	flat		30	3
+17	flat		60	3
+18	flat		60	3
+19	flat		60	3
+20	flat		60	3
+21	flat		60	3
+22	flat		60	3
+23	bias		0	3
+24	bias		0	3
+25	bias		0	3
+26	bias		0	3
+27	bias		0	3
+28,29   sky             ?       3
+30      vega            5       3
+31      vega		31	3
+new focus 27
+32	HD3360		60	3
+33	HD3360		240	3
+34	HD3360		600	3
+new focus 25.7
+35	vega		20	3
+36	vega		10	6
+37	vega		02	6
+slit
+38	HD3360		121	3
+left slit
+39	HD3360		121	3
++ left slit
+40	HD3360		121	3
+++ left slit
+41	HD3360		121	3
+44      HD3360           30     3   new slit center 332, 255
+45	HD15238		121	3
+46	HD15238		121	3
+47	HD15238		121	3
+48	HD15251		121	3
+49	HD15251		300	3
+50	RX J02040+3632  300	3   nope.. off target
